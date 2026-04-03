@@ -48,8 +48,7 @@ Modern UI for users to explore office spaces, book plans, and manage their booki
 
 ### 🚀 Frontend Deployment
 
-Deployed on **Vercel** - [https://ritesh-portfolio-2026.vercel.app/](https://ritesh-portfolio-2026.vercel.app/)
-
+Deployed on **Vercel** - [https://ritesh-officespace.vercel.app/](https://ritesh-officespace.vercel.app/)
 ---
 
 ## 🖥️ Backend API
